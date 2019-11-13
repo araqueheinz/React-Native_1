@@ -26,3 +26,5 @@ expo init HelloProject
 cd HelloProject
 npm start # you can also use: expo start
   ```
+- Simulator on mac `open -a simulator`
+- Give permission to interact with Xcode `sudo xcode-select -s /Applications/Xcode.app`
