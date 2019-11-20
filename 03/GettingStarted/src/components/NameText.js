@@ -9,7 +9,7 @@ export default class NameText extends Component {
   render() {
     return (
       <Text style={styles.textStyle}>
-        Heinz Araque
+        {this.props.name}
       </Text>
     )
   }

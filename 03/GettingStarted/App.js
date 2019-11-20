@@ -12,9 +12,9 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <NameText/>
-        <NameText/>
-        <NameText/>
+        <NameText name="Heinz Araque"/>
+        <NameText name="Fonda Yeh" />
+        <NameText name="Oscar Araque"/>
       </View>
     )
   }
