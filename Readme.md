@@ -1,7 +1,7 @@
 # Learning React Native 1
 
 
-### Tools we will need to download:
+## Tools we will need to download:
   - [Node](https://nodejs.org/en/download/)
   - [VSCode](https://code.visualstudio.com/download)
   - [Expo with client](https://expo.io/tools#client) | On your phone
@@ -10,7 +10,7 @@
   - [Mac - Homebrew](https://brew.sh/)
   - [Windows - Chocolatey](https://chocolatey.org/install)
 
-### Resources
+## Resources
   - [React Native Docs](https://facebook.github.io/react-native/docs/getting-started.html)
 
 ## Using Expo CLI
