@@ -48,6 +48,7 @@ npm start # you can also use: expo start
 
 ### Target Android
 - Create  `local.properties` file inside android folder
+- Add: `sdk.dir=/Users/heinzaraque/Library/Android/sdk`
 - In Macintosh HD⁩/⁨Users⁩/⁨heinzaraque⁩/.bash_profile file add:
 ```
   export ANDROID_HOME=/Users/heinzaraque/Library/Android/sdk
